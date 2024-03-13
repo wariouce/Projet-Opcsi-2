@@ -11,7 +11,7 @@
 
 Il suffit de faire la commande pour que ça marche: 
 
->> bash start.sh
+>bash start.sh
 
 source : https://arthurescriou.github.io/OPSCI/projet
 
