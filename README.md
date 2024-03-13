@@ -1,5 +1,4 @@
 # Projet OPSCI 2024
-https://arthurescriou.github.io/OPSCI/projet
 
 28706911 - Romain DEMONT
 
@@ -12,6 +11,7 @@ https://arthurescriou.github.io/OPSCI/projet
 
 Il suffit de faire la commande pour que ça marche: 
 
->>bash start.sh
+>> bash start.sh
 
+source : https://arthurescriou.github.io/OPSCI/projet
 
