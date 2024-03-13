@@ -1,4 +1,4 @@
-#Projet OPSCI 2024
+# Projet OPSCI 2024
 https://arthurescriou.github.io/OPSCI/projet
 
 28706911 - Romain DEMONT
@@ -14,4 +14,4 @@ Il suffit de faire la commande pour que ça marche:
 
 >>bash start.sh
 
-# Projet-Opsci-2024
+
